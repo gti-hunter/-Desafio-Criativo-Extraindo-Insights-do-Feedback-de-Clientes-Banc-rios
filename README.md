@@ -1,11 +1,16 @@
-# -Desafio-Criativo-Extraindo-Insights-do-Feedback-de-Clientes-Banc-rios
+# -Desafio-Criativo-Extraindo-Insights-do-Feedback-de-Clientes-Bancarios
 Bem-vindo ao Desafio Criativo. Nesta atividade, você seguirá algumas etapas simples que, ao final, irão ajudar a extrair insights de feedbacks de clientes bancários com apoio de IA, usando contexto, critérios de análise e cuidados com dados sensíveis.
 
+💡 Sobre o Exercício
+Um bom prompt nasce de intenção clara, contexto e instruções específicas. Durante o desafio, você irá organizar suas ideias e transformá-las em comandos claros.
+
+🧩 Construção Passo a Passo
+Cada etapa adicionará uma nova peça ao seu prompt final. Ao concluir todas, você terá um prompt capaz de orientar uma IA a produzir exatamente o que você imaginou.
 
 
-# Prompt Consolidado: Análise de Experiência do Cliente (CX) para o Setor Bancário
+# Prompt Consolidado: Análise de Experiência do Cliente
 
-Este documento consolida as diretrizes, o contexto e as instruções estruturadas para a execução de análises automatizadas de feedback de clientes em canais digitais bancários, utilizando IA com foco executivo.
+Este documento consolida as diretrizes, o contexto e as instruções estruturadas para a execução de análises automatizadas de feedback de clientes em canais digitais, utilizando IA com foco executivo.
 
 ---
 
